@@ -132,6 +132,8 @@ payload:
 - DOMAIN,www.wenshushu.cn
 - IP-CIDR,120.53.130.158/32,no-resolve
 - DOMAIN,frodo.douban.com
+- DOMAIN,api.coolapk.com
+- DOMAIN,api2.coolapk.com
 - DOMAIN,www.douban.com
 - DOMAIN,api.taptapdada.com
 - DOMAIN,god.gameyw.netease.com
