@@ -133,8 +133,6 @@ payload:
 - IP-CIDR,120.53.130.158/32,no-resolve
 - DOMAIN,frodo.douban.com
 - DOMAIN,www.douban.com
-# - DOMAIN,api.coolapk.com
-# - DOMAIN,api2.coolapk.com
 - DOMAIN,api.taptapdada.com
 - DOMAIN,god.gameyw.netease.com
 - DOMAIN-SUFFIX,dongqiudi.com
