@@ -140,8 +140,6 @@ payload:
 - DOMAIN,api.vip.miui.com
 - DOMAIN-SUFFIX,lofter.com
 - DOMAIN,yaolu.yuedu.163.com
-- DOMAIN-SUFFIX,douyucdn.cn
-- DOMAIN-SUFFIX,douyu.com
 - DOMAIN,bbs-api.mihoyo.com
 - DOMAIN,bbs-api.miyoushe.com
 - DOMAIN-SUFFIX,douban.com
