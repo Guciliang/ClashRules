@@ -135,3 +135,6 @@ payload:
   # UU Plugin
   - '+.uu.163.com'
   - 'ps.res.netease.com'
+  # Cfst url
+  - 'cf.xiu2.xyz'
+  - 'xn--e1a.eu.org'
