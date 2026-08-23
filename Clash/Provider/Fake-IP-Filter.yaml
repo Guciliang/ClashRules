@@ -135,8 +135,5 @@ payload:
   # UU Plugin
   - '+.uu.163.com'
   - 'ps.res.netease.com'
-  # Cfst url
-  - 'cf.xiu2.xyz'
-  - 'xn--e1a.eu.org'
-  # ikuuu
-  - '+.9fe06a.fyi'
+  # cfip
+  - 'ct.bestcfip.saas.coolguci.com'
